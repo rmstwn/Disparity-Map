@@ -1,0 +1,160 @@
+﻿'ConsoleApplication2.exe' (Win32): Loaded 'E:\Kuliah\Semester 5\Works. Komputer Visi\07 HISTOGRAM DAN SEGMENTASI\Live Adjustment\x64\Debug\ConsoleApplication2.exe'. Symbols loaded.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'E:\Kuliah\Semester 5\Works. Komputer Visi\opencv3.1\install\bin\opencv_highgui310d.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\comdlg32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'E:\Kuliah\Semester 5\Works. Komputer Visi\opencv3.1\install\bin\opencv_imgproc310d.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\umpdc.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'E:\Kuliah\Semester 5\Works. Komputer Visi\opencv3.1\install\bin\opencv_imgcodecs310d.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'E:\Kuliah\Semester 5\Works. Komputer Visi\opencv3.1\install\bin\opencv_videoio310d.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'E:\Kuliah\Semester 5\Works. Komputer Visi\opencv3.1\install\bin\opencv_core310d.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.356_none_2a28023246698435\comctl32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\msvfw32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\avifil32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\avicap32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\concrt140d.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\msacm32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Unloaded 'C:\Windows\System32\winmm.dll'
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Unloaded 'C:\Windows\System32\winmmbase.dll'
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. Cannot find or open the PDB file.
+
+***** VIDEOINPUT LIBRARY - 0.1995 - TFW07 *****
+
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\devenum.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\msdmo.dll'. Cannot find or open the PDB file.
+SETUP: Setting up device 0
+SETUP: Logitech HD Webcam C525
+SETUP: Couldn't find preview pin using SmartTee
+SETUP: Default Format is set to 640x480
+SETUP: trying specified format RGB24 @ 640x480
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\qcap.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\quartz.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\mfksproxy.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\atl.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\mfplat.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\RTWorkQ.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\mfsensorgroup.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\ksproxy.ax'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\ksuser.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\d3d9.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DXCore.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\policymanager.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\msvcp110_win.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\vidcap.ax'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\Kswdmcap.ax'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\mfc42.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\qedit.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.356_none_17afa2626da1a19a\GdiPlus.dll'. Cannot find or open the PDB file.
+SETUP: Capture callback set
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\ddraw.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\dciman32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igdumdim64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igc64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igc64.dll'
+'ConsoleApplication2.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igdumdim64.dll'
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igdumdim64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igc64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igc64.dll'
+'ConsoleApplication2.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igdumdim64.dll'
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\CapabilityAccessManagerClient.dll'. Cannot find or open the PDB file.
+SETUP: Device is setup and ready to capture.
+
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\OpenCL.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvami.inf_amd64_41fd74dc07e43f00\nvopencl64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\nvapi64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\IntelOpenCL64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Program Files (x86)\Common Files\Intel\OpenCL\bin\x64\intelocl64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Program Files (x86)\Common Files\Intel\OpenCL\bin\x64\task_executor64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\opengl32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\glu32.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Program Files (x86)\Common Files\Intel\OpenCL\bin\x64\cpu_device64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igdrcl64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Unloaded 'C:\Windows\System32\ResourcePolicyClient.dll'
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvami.inf_amd64_41fd74dc07e43f00\nvdlistx.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvami.inf_amd64_41fd74dc07e43f00\nvdlistx.dll'
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igdfcl64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igdmcl64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_463164d40c3d26ce\igc64.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Cannot find or open the PDB file.
+'ConsoleApplication2.exe' (Win32): Unloaded 'C:\Windows\System32\WinTypes.dll'
+'ConsoleApplication2.exe' (Win32): Unloaded 'C:\Windows\System32\WinTypes.dll'
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\System32\iertutil.dll'. Cannot find or open the PDB file.
+The thread 0xf84 has exited with code 0 (0x0).
+The thread 0x2190 has exited with code 0 (0x0).
+The thread 0x3e4 has exited with code 0 (0x0).
+The thread 0x357c has exited with code 0 (0x0).
+The thread 0x4330 has exited with code 0 (0x0).
+The thread 0x21dc has exited with code 0 (0x0).
+The thread 0xec has exited with code 0 (0x0).
+The thread 0x2694 has exited with code 0 (0x0).
+The thread 0x16c has exited with code 0 (0x0).
+The thread 0x11f0 has exited with code 0 (0x0).
+The thread 0x29c4 has exited with code 0 (0x0).
+The thread 0xb40 has exited with code 0 (0x0).
+The thread 0x180c has exited with code 0 (0x0).
+The thread 0x2388 has exited with code 0 (0x0).
+The thread 0x2ac0 has exited with code 0 (0x0).
+The thread 0x22f4 has exited with code 0 (0x0).
+The thread 0x4370 has exited with code 0 (0x0).
+The thread 0x31a4 has exited with code 0 (0x0).
+The thread 0x40e0 has exited with code 0 (0x0).
+The thread 0x43ec has exited with code 0 (0x0).
+The thread 0x42b0 has exited with code 0 (0x0).
+The thread 0x1a44 has exited with code 0 (0x0).
+The thread 0x18a8 has exited with code 0 (0x0).
+The thread 0x398 has exited with code 0 (0x0).
+The thread 0x4344 has exited with code 0 (0x0).
+The thread 0x378c has exited with code 0 (0x0).
+The program '[9248] ConsoleApplication2.exe' has exited with code 0 (0x0).
